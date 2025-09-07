@@ -7,7 +7,7 @@ dan project ini mengikuti [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 
 ## [Unreleased]
 
-## [1.0.0] - 2024-09-07
+## [3.23.02] - 2024-09-07
 
 ### Added
 - 🎉 **Rilis awal GamaPOS Desktop Client**
