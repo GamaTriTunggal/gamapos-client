@@ -4,7 +4,7 @@ Aplikasi desktop Point of Sale (POS) untuk sistem GamaPOS - dirancang khusus unt
 
 ## 📥 Download
 
-**[Download Versi Terbaru](https://github.com/GamaTriTunggal/gamapos-client/releases/latest/download/GamaPOS-Client.exe)**
+**[Download Versi Terbaru](https://github.com/GamaTriTunggal/gamapos-client/releases/latest/download/GamaPOS-Client.msi)**
 
 > ⚠️ **Penting:** Selalu gunakan versi terbaru untuk memastikan kompatibilitas dengan server GamaPOS Anda.
 
@@ -28,7 +28,7 @@ Aplikasi desktop Point of Sale (POS) untuk sistem GamaPOS - dirancang khusus unt
 ## 🚀 Cara Menggunakan
 
 1. **Download** aplikasi dari link di atas
-2. **Install** dengan menjalankan file `GamaPOS-Client.exe`
+2. **Install** dengan menjalankan file `GamaPOS-Client.msi`
 3. **Login** menggunakan akun yang sama dengan web dashboard
 4. **Konfigurasi** koneksi ke server GamaPOS Anda
 5. **Mulai** melayani pelanggan!
