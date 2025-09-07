@@ -4,7 +4,7 @@ Aplikasi desktop Point of Sale (POS) untuk sistem GamaPOS - dirancang khusus unt
 
 ## 📥 Download
 
-**[Download Versi Terbaru](https://github.com/USERNAME/gamapos-client/releases/latest/download/GamaPOS-Client.exe)**
+**[Download Versi Terbaru](https://github.com/GamaTriTunggal/gamapos-client/releases/latest/download/GamaPOS-Client.exe)**
 
 > ⚠️ **Penting:** Selalu gunakan versi terbaru untuk memastikan kompatibilitas dengan server GamaPOS Anda.
 
